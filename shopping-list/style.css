@@ -1,0 +1,13 @@
+li {
+    margin-bottom: 10px;
+}
+
+li p {
+    display: inline;
+}
+
+li button {
+    font-size: 12px;
+    margin-left: 20px;
+    color: #000000;
+}
